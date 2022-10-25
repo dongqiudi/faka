@@ -1,5 +1,5 @@
 module.exports = {
-    mongoURI: "mongodb+srv://vercel-admin-user:wNrbtbI3x2qOPPlo@cluster0.1o55ys0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    mongoURI: "mongodb://127.0.0.1:27017/faka",
     serectOrKey: "screct",
     payjskey: "xxx"
 }
